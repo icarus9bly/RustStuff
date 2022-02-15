@@ -1,5 +1,6 @@
 fn main(){
-    println!("Hi Mommy🥳");
+    let x: u32 = 4;
+    println!("Hi Mommy, number x {}",x);
     return;
 
 }
